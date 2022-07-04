@@ -6,8 +6,8 @@ Projeto Página Responsiva com JS
 Com HTML, CSS e JavaScript
 
 <br>
-<img align="center" alt="Henry-HTML" height="260" width="450" src="https://user-images.githubusercontent.com/96191361/175795980-e90508b7-b0d7-47f3-9125-7f1d1ba0f845.png">
-<img align="center" alt="Henry-HTML" height="300" width="210" src="https://user-images.githubusercontent.com/96191361/175795995-827f9b5f-26cc-4acb-8a73-936358fb30d0.png">
+<img align="center" alt="Henry-HTML" height="260" width="500" src="https://user-images.githubusercontent.com/96191361/175795980-e90508b7-b0d7-47f3-9125-7f1d1ba0f845.png">
+<img align="center" alt="Henry-HTML" height="330" width="240" src="https://user-images.githubusercontent.com/96191361/175795995-827f9b5f-26cc-4acb-8a73-936358fb30d0.png">
 <hr>
 open source 👍
 <br>
